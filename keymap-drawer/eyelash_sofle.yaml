@@ -189,10 +189,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
+  - {t: '=', s: +}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - '#'
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   colemak:
   - $$mdi:keyboard-esc$$
